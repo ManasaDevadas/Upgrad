@@ -31,10 +31,15 @@ All conclusions mentioned in detail in the Notebook
 
 ## Technologies Used
 version pandas 2.2.2
+
 version matplotlib 3.9.0
+
 version seaborn 0.13.2
+
 version scikit-learn 1.5.0
+
 version statsmodels 0.14.2
+
 version numpy 2.0.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
