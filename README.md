@@ -1,5 +1,4 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike sharing case study using Linear Regression.
 
 
 ## Table of Contents
