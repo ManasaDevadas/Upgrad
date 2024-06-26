@@ -25,7 +25,7 @@ How well those variables describe the bike demands
 To know the accuracy of the model
 
 ## Conclusions
-All in the Notebook
+All conclusions mentioned in detail in the Notebook
 
 
 
@@ -40,11 +40,7 @@ version numpy 2.0.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+
 
 
 ## Contact
